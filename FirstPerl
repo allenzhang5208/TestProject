@@ -1,5 +1,5 @@
 #!/usr/bin/perl
 
-$kaka="abc";
+$kaka="abcd";
 
 print $abc . " dajuezhao" . "/n";
